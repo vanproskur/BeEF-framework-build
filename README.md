@@ -1,4 +1,4 @@
-# BeEF-framework-
+# BeEF-framework-build
 BeEF framework on Ubuntu
 
 1. go to first cmd and write:
